@@ -32,7 +32,7 @@ Sistem ini mendukung organisasi sosial dalam menemukan relawan yang relevan dan 
 
 ## Struktur Dataset
 
-Dataset ini diambil melalui https://github.com/junaediakbar/Capstone-Bangkit-2022-Relasia/blob/master/Machine%20Learning/indorelawan.csv dengan jumlah baris 371, dengan detail kolom:
+Dataset ini diambil melalui https://github.com/junaediakbar/Capstone-Bangkit-2022-Relasia/blob/master/Machine%20Learning/indorelawan.csv dengan detail kolom:
 
 | Kolom                      | Deskripsi                                   |
 | -------------------------- | ------------------------------------------- |
